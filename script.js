@@ -53,4 +53,3 @@ document.getElementById('save-pdf').addEventListener('click', function() {
     // Save the PDF with the specified filename
     doc.save(`${filename}.pdf`);
 });
-
